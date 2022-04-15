@@ -7,8 +7,8 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
     
 setup(
-    name="hbtech-verificador-telefone",
-    version="0.0.2",
+    name="hbtech_verificador_telefone",
+    version="0.0.3",
     author="Hamilton Ribeiro",
     author_email="hamilton.ribeiro@hbtechcompany.onmicrosoft.com",
     description="Get info which city a phone number belong to",
