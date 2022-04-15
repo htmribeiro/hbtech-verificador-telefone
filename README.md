@@ -15,7 +15,7 @@ pip install hbtech-verificador-telefone
 ## Usage
 
 ```python
-import hbtech-verificador-telefone
+from hbtech-verificador-telefone import verificadortelefone
 ```
 
 ## Author
